@@ -1,4 +1,17 @@
 h1 {
-  color: purple;
+  color: #4E12BD;
   text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #BD9712;
+  
 }
