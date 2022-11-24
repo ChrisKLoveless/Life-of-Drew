@@ -1,17 +1,42 @@
+body {
+  background-color: #BD9712;
+}
+
+button {
+  align-items: center;
+}
+
 h1 {
   color: #4E12BD;
+  font-family: Pacifico;
   text-align: center;
 }
 
 h2 {
   text-align: center;
+  color: #4E12BD;
+  font-family: Pacifico;
 }
+
+.jumbotron {
+  margin-top: 5%;
+  margin-right: 5%;
+  margin-left: 5%;
+}
+
 
 p {
   font-family: sans-serif;
 }
 
-body {
-  background-color: #BD9712;
-  
+#stroller {
+  height: 65%;
+  width: 65%;
 }
+
+#sleep {
+  height: 65%;
+  width: 65%;
+}
+
+
